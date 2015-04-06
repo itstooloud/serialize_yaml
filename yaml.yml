@@ -1,0 +1,8 @@
+--- !ruby/object:Dogs
+dogs:
+- - !ruby/object:Dog
+    type: poodle
+    age: 3
+  - !ruby/object:Dog
+    type: shitzu
+    age: 2
